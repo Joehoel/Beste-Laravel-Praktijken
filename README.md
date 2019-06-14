@@ -129,7 +129,6 @@ class Client extends Model
 
 ### **Validatie**
 
-Move validation from controllers to Request classes.
 Verplaats validatie uit controllers naar daarvoor bestemde `Request` klassen.
 
 Afgeraden:
